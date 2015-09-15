@@ -1,0 +1,6 @@
+﻿1.配置config.json
+
+2./app下创建xxxapp.py(webapp.py,ncapp.py)
+
+3.webapp.py下创建web请求处理函数(/hello)
+4.http://localhost:1023/hello

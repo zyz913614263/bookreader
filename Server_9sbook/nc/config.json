@@ -1,0 +1,16 @@
+{
+	"master":{"roothost":"localhost","rootport":9999,"webport":9998},
+	"servers":{
+		"web":{"webport":1101,"app":"app.webapp","rootport":3021,"name":"web"},
+		"nc1":{"app":"app.ncapp","remoteport":[{"rootport":3021,"rootname":"web"}],"name":"nc1"},
+		"nc2":{"app":"app.ncapp","remoteport":[{"rootport":3021,"rootname":"web"}],"name":"nc2"},
+		"nc3":{"app":"app.ncapp","remoteport":[{"rootport":3021,"rootname":"web"}],"name":"nc3"},
+		"nc4":{"app":"app.ncapp","remoteport":[{"rootport":3021,"rootname":"web"}],"name":"nc4"},
+		"nc5":{"app":"app.ncapp","remoteport":[{"rootport":3021,"rootname":"web"}],"name":"nc5"},
+		"nc6":{"app":"app.ncapp","remoteport":[{"rootport":3021,"rootname":"web"}],"name":"nc6"},
+		"nc7":{"app":"app.ncapp","remoteport":[{"rootport":3021,"rootname":"web"}],"name":"nc7"},
+		"nc8":{"app":"app.ncapp","remoteport":[{"rootport":3021,"rootname":"web"}],"name":"nc8"},
+		"nc9":{"app":"app.ncapp","remoteport":[{"rootport":3021,"rootname":"web"}],"name":"nc9"},
+		"nc10":{"app":"app.ncapp","remoteport":[{"rootport":3021,"rootname":"web"}],"name":"nc10"}
+	}
+}

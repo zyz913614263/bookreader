@@ -1,0 +1,11 @@
+eclipse.preferences.version=1
+encoding//app/apptest.py=utf8
+encoding//app/crawl/crawler_1.py=utf8
+encoding//app/crawl/crawler_2.py=utf8
+encoding//app/crawl/rank.py=utf8
+encoding//app/man/NCManager.py=utf8
+encoding//app/ncapp.py=utf8
+encoding//app/webapp.py=utf8
+encoding//tool/clienttest.py=utf8
+encoding/appmain.py=utf8
+encoding/startmaster.py=utf8
